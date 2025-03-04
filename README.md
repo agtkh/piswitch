@@ -1,4 +1,11 @@
 # piswitch
+
+## 概要
+
+Nintendo Switch を Raspberry Piから操作するためのPythonモジュール。
+
+操作にはRaspberryのUSB Gadget Modeを使用するため、USBtoシリアル通信変換機などを必要としない。
+
 ## 使い方  
 editing...
 
